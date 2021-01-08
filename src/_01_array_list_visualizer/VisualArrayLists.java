@@ -16,7 +16,11 @@ public class VisualArrayLists implements ActionListener {
 
 	public void addThingsToList() {
 		// 1. Add a bunch of items to our list (4 or 5 should be enough!)
-		
+		list.add("yr");
+		list.add("yur");
+		list.add("yuur");
+		list.add("yuuur");
+		list.add("yuuuur");
 		// 2. Set one item in our list to be something different
 		
 		// 3. Remove something from our list
